@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.box{
+    width: 400px;
+    height: 200px;
+    border: 2px solid rgb(131, 129, 129);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,-50%) ;
+    border-radius: 20px;
+}
